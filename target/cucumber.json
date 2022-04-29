@@ -1,0 +1,289 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-04-29T16:57:04.280Z",
+        "before": [
+          {
+            "result": {
+              "duration": 5626501500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "User experience from United Kingdom",
+        "description": "",
+        "id": "visiting-store-front-and-viewing-the-content;user-experience-from-\u003cmarket-regions\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 789129500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6112362200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user from one of the \"United Kingdom\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"United Kingdom\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.aUserFromOneOfThe(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 89900100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "The user visits the store front\"United Kingdom\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"United Kingdom\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theUserVisitsTheStoreFront(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 190235400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "They should be able to view the content related to the \"United Kingdom\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"United Kingdom\"",
+                  "offset": 55
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theyShouldBeAbleToViewTheContentRelatedToThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-29T16:57:17.193Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1711819700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "User experience from France",
+        "description": "",
+        "id": "visiting-store-front-and-viewing-the-content;user-experience-from-\u003cmarket-regions\u003e;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 825479200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 6226618600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user from one of the \"France\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"France\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.aUserFromOneOfThe(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 206445400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "The user visits the store front\"France\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"France\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theUserVisitsTheStoreFront(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 317523400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "They should be able to view the content related to the \"France\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"France\"",
+                  "offset": 55
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theyShouldBeAbleToViewTheContentRelatedToThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-04-29T16:57:26.495Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1612530900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User experience from Italy",
+        "description": "",
+        "id": "visiting-store-front-and-viewing-the-content;user-experience-from-\u003cmarket-regions\u003e;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 867954800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.deBeers.stepDefinitions.Hooks.tearDown(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5562064600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "A user from one of the \"Italy\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Italy\"",
+                  "offset": 23
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.aUserFromOneOfThe(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 110782700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "The user visits the store front\"Italy\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Italy\"",
+                  "offset": 31
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theUserVisitsTheStoreFront(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 377980300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "They should be able to view the content related to the \"Italy\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Italy\"",
+                  "offset": 55
+                }
+              ],
+              "location": "com.deBeers.stepDefinitions.firstUserStoryStepDef.theyShouldBeAbleToViewTheContentRelatedToThe(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip1"
+          }
+        ]
+      }
+    ],
+    "name": "Visiting store front and viewing the content",
+    "description": "",
+    "id": "visiting-store-front-and-viewing-the-content",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/userStory1.feature",
+    "tags": []
+  }
+]

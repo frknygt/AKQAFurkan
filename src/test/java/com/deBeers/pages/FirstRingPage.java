@@ -14,7 +14,7 @@ public class FirstRingPage {
         PageFactory.initElements(Driver.get(), this);
     }
 
-    @FindBy(xpath = "//div[@class=\"product-info__title\"]")
+    @FindBy(xpath = "(//div[@class=\"product-info__title\"])[2]")
     public WebElement ringName;
 
     @FindBy(xpath = "(//div[@class=\"slider-handle min-slider-handle slider-handle-borderPrimaryColor round\"])[1]")
